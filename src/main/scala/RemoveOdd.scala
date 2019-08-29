@@ -13,4 +13,18 @@ object RemoveOdd extends App {
       }
     }
   }
+
+}
+
+
+import scala.io.StdIn
+
+object Solution extends App {
+  val s = StdIn.readInt()
+
+  var i: Int = 0
+  var list: List[Int] = List()
+  for(i <- 1 to s) {
+
+  }
 }

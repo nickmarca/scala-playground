@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e89e092-d556-4e2c-9a0b-5a5e6370500d" name="Default Changelist" comment="" />
+    <list default="true" id="5e89e092-d556-4e2c-9a0b-5a5e6370500d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/EvaluationESolution.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/ReverseListSolution.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Solution3.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/SolutionFilterArray.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/SolutionFilterOdd.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/SumOfOddsSolution.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/scala/InterceptingLogsSpec.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/RemoveOdd.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/RemoveOdd.scala" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,10 +36,14 @@
       <replace />
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1OjTvjIA5bC5EMZYXwXeR6RE8kZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -56,124 +69,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="ScalaTest.BasicSpec.A lab test actor should reply with cool tech in fancy way">
-    <configuration name="BasicSpec.A blackhole actor should send back some message" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+  <component name="RunManager" selected="Application.EvaluationESolution">
+    <configuration name="EvaluationESolution" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="EvaluationESolution" />
       <module name="playground" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="testKind" value="Class" />
-      <option name="envs">
-        <map />
-      </option>
-      <option name="javaOptions" value="" />
-      <option name="jrePath" />
-      <option name="searchTest" value="Across module dependencies" />
-      <option name="showProgressMessages" value="true" />
-      <option name="testArgs" value="" />
-      <option name="testClassPath" value="BasicSpec" />
-      <option name="testName" value="A blackhole actor should send back some message" />
-      <option name="testPackagePath" value="" />
-      <option name="useSbt" value="false" />
-      <option name="useUiWithSbt" value="false" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicSpec.A lab test actor should reply with cool tech in fancy way" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+    <configuration name="ReverseListSolution" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseListSolution" />
       <module name="playground" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="testKind" value="Class" />
-      <option name="envs">
-        <map />
-      </option>
-      <option name="javaOptions" value="" />
-      <option name="jrePath" />
-      <option name="searchTest" value="Across module dependencies" />
-      <option name="showProgressMessages" value="true" />
-      <option name="testArgs" value="" />
-      <option name="testClassPath" value="BasicSpec" />
-      <option name="testName" value="A lab test actor should reply with cool tech in fancy way" />
-      <option name="testPackagePath" value="" />
-      <option name="useSbt" value="false" />
-      <option name="useUiWithSbt" value="false" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicSpec.A lab test actor should turn a string into uppercase" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+    <configuration name="SolutionFilterArray" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="SolutionFilterArray" />
       <module name="playground" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="testKind" value="Class" />
-      <option name="envs">
-        <map />
-      </option>
-      <option name="javaOptions" value="" />
-      <option name="jrePath" />
-      <option name="searchTest" value="Across module dependencies" />
-      <option name="showProgressMessages" value="true" />
-      <option name="testArgs" value="" />
-      <option name="testClassPath" value="BasicSpec" />
-      <option name="testName" value="A lab test actor should turn a string into uppercase" />
-      <option name="testPackagePath" value="" />
-      <option name="useSbt" value="false" />
-      <option name="useUiWithSbt" value="false" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicSpec.A lab test actor should turn a string into uppercase&#10;A lab test actor should reply to a greeting" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+    <configuration name="SolutionFilterOdd" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="SolutionFilterOdd" />
       <module name="playground" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="testKind" value="Class" />
-      <option name="envs">
-        <map />
-      </option>
-      <option name="javaOptions" value="" />
-      <option name="jrePath" />
-      <option name="searchTest" value="Across module dependencies" />
-      <option name="showProgressMessages" value="true" />
-      <option name="testArgs" value="" />
-      <option name="testClassPath" value="BasicSpec" />
-      <option name="testName" value="A lab test actor should turn a string into uppercase&#10;A lab test actor should reply to a greeting" />
-      <option name="testPackagePath" value="" />
-      <option name="useSbt" value="false" />
-      <option name="useUiWithSbt" value="false" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicSpec.A lab test actor should turn a string into uppercase&#10;A lab test actor should reply to a greeting&#10;A lab test actor should reply with favorite tech" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+    <configuration name="SumOfOddsSolution" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="SumOfOddsSolution" />
       <module name="playground" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="testKind" value="Class" />
-      <option name="envs">
-        <map />
-      </option>
-      <option name="javaOptions" value="" />
-      <option name="jrePath" />
-      <option name="searchTest" value="Across module dependencies" />
-      <option name="showProgressMessages" value="true" />
-      <option name="testArgs" value="" />
-      <option name="testClassPath" value="BasicSpec" />
-      <option name="testName" value="A lab test actor should turn a string into uppercase&#10;A lab test actor should reply to a greeting&#10;A lab test actor should reply with favorite tech" />
-      <option name="testPackagePath" value="" />
-      <option name="useSbt" value="false" />
-      <option name="useUiWithSbt" value="false" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="ScalaTest.BasicSpec.A lab test actor should reply with cool tech in fancy way" />
-        <item itemvalue="ScalaTest.BasicSpec.A lab test actor should turn a string into uppercase&#10;A lab test actor should reply to a greeting&#10;A lab test actor should reply with favorite tech" />
-        <item itemvalue="ScalaTest.BasicSpec.A lab test actor should turn a string into uppercase&#10;A lab test actor should reply to a greeting" />
-        <item itemvalue="ScalaTest.BasicSpec.A lab test actor should turn a string into uppercase" />
-        <item itemvalue="ScalaTest.BasicSpec.A blackhole actor should send back some message" />
+        <item itemvalue="Application.EvaluationESolution" />
+        <item itemvalue="Application.SumOfOddsSolution" />
+        <item itemvalue="Application.ReverseListSolution" />
+        <item itemvalue="Application.SolutionFilterOdd" />
+        <item itemvalue="Application.SolutionFilterArray" />
       </list>
     </recent_temporary>
   </component>
@@ -240,12 +178,23 @@
       <workItem from="1566485822046" duration="23628000" />
       <workItem from="1566811824307" duration="4000" />
       <workItem from="1566829529929" duration="3420000" />
-      <workItem from="1566896697806" duration="2178000" />
+      <workItem from="1566896697806" duration="25619000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="masterDetails">
     <states>
